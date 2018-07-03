@@ -6,7 +6,7 @@
 
 ## Sobre nós
 
-A Sky.One, foi fundada em 2014 e tornou-se uma empresa especializada no desenvolvimento de plataformas que facilitam o uso e a migração de soluções de ERP (Enterprise Resource Planning) para a nuvem. Desde o início contamos com a parceria da Amazon Web Services, buscando o que tem de mais moderno quando falamos de cloud computing. A empresa foi idealizada por quatro sócios: Eu – Ricardo Brandão, o Rennan Sanchez, Rodrigo Burjato e o Caio Klein.
+A Sky.One, foi fundada em 2013 e tornou-se uma empresa especializada no desenvolvimento de plataformas que facilitam o uso e a migração de soluções de ERP (Enterprise Resource Planning) para a nuvem. Desde o início contamos com a parceria da Amazon Web Services, buscando o que tem de mais moderno quando falamos de cloud computing. A empresa foi idealizada por quatro sócios: Ricardo Brandão, o Rennan Sanchez, Rodrigo Burjato e o Caio Klein.
 
 ## Sobre o teste
 
