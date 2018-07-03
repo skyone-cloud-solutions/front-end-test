@@ -10,15 +10,15 @@ A Sky.One, foi fundada em 2014 e tornou-se uma empresa especializada no desenvol
 
 ## Sobre o teste
 
-O teste foi desenvolvido para entendermos um pouco melhor sobre as skills e tecnoligias utilizadas pelo candidato. A análise irá considerar a capacitação sobre os conhecimentos de HTML, CSS, javascript, modelos responsivo, suporte a crossbrowser, utilização de bibliotecas e lógica.
+O teste foi desenvolvido para entendermos um pouco melhor sobre as skills e tecnologias utilizadas pelo candidato. A análise irá considerar a capacitação sobre os conhecimentos de HTML, CSS, javascript, modelos responsivo, suporte a crossbrowser, utilização de bibliotecas e lógica.
 
-* **Importante:** Este teste é realizado para todos os níveis de profissionais: **junior**, **pleno** ou **senior**, realizamos a análize criteriosa para adequarmos o nível de cada um dentro os níveis procurados. Por tanto, não se sinta obrigado a saber todos os requisitos exigidos.
+* **Importante:** Este teste é realizado para todos os níveis de profissionais: **junior**, **pleno** ou **senior**, realizamos a análise criteriosa para adequarmos o nível de cada um dentro os níveis procurados. Por tanto, não se sinta obrigado a saber todos os requisitos exigidos.
 
 ## Instruções
 
-1. Crie um fork do projeto e faça o clone. Crie uma branch de preferencia com seu nome;
+1. Crie um fork do projeto e faça o clone. Crie uma branch de preferência com seu nome;
 2. O layout será livre, na pasta resources, dentro do projeto, contém duas imagens que são referências de como deve ser feito o desenvolvimento da solução;
-3. O projeto deve conter um menu lateral como o apresentado nas imagens resources/(layout-menu-open.png, layout-menu-closed.png). A barra de topo deve conter o logo tipo do projeto um ícone de notificações um botão de logout. Utilizando a api que será disponibilizada deverá ser criada uma tabela com paginação e todos os controles apresentados nas imagens citadas, todos elementos devem ser funcionais;
+3. O projeto deve conter um menu lateral como o apresentado nas imagens resources/(layout-menu-open.png, layout-menu-closed.png). A barra de topo deve conter o logotipo do projeto um ícone de notificações um botão de logout. Utilizando a api que será disponibilizada deverá ser criada uma tabela com paginação e todos os controles apresentados nas imagens citadas, todos elementos devem ser funcionais;
 4. A aplicação front-end deverá utilizar a [API Jsonplaceholder](https://jsonplaceholder.typicode.com/) como backend;
 5. O endpoint que obrigatório é [/photos - 5000 items](https://jsonplaceholder.typicode.com/photos). Esta rota deverá preencher a tabela solicitada no item número 3 das instruções;
 6. Após terminar seu teste submeta um pull request de sua branch e aguarde seu feedback.
@@ -30,7 +30,7 @@ O teste foi desenvolvido para entendermos um pouco melhor sobre as skills e tecn
 * Utilização de Angular 2+ ou React (Single page);
 * Código organizado do html, javascript e css;
 * Boas práticas de tags do html5;
-* Organização de arquivos(hierarquia de pastas, separação de arquivos, modularizações e patterns);
+* Organização de arquivos(hierarquia de pastas, separação de arquivos, modularização e patterns);
 * Queremos ver seu trabalho funcionando! Para isso utilize [Github Pages](https://pages.github.com/) ou hospede os arquivos minificados em algum host de sua preferência para testarmos a aplicação.
 * Documentação no Readme.md. Descreva como baixar o projeto e rodar localmente (Caso tenha algum procedimento);
 * Na existência de buiders ou testes automatizados, crie a documentação com as instruções de como instalar, buildar e testar;
@@ -38,7 +38,7 @@ O teste foi desenvolvido para entendermos um pouco melhor sobre as skills e tecn
 
 ### Diferenciais:
 
-* Modal para deletar uma linha da listagem. Usar a API com os metodos fornecidos será um plus;
+* Modal para deletar uma linha da listagem. Usar a API com os métodos fornecidos será um plus;
 * Boas práticas de SEO;
 * Utilização de frameworks utilizados pela comunidade;
 * Utilização de Bootstrap ou Material Design;
