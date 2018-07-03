@@ -27,7 +27,6 @@ O teste foi desenvolvido para entendermos um pouco melhor sobre as skills e tecn
 
 ### O que esperamos:
 
-* Utilização de Angular 2+ ou React (Single page);
 * Código organizado do html, javascript e css;
 * Boas práticas de tags do html5;
 * Organização de arquivos(hierarquia de pastas, separação de arquivos, modularização e patterns);
@@ -38,6 +37,7 @@ O teste foi desenvolvido para entendermos um pouco melhor sobre as skills e tecn
 
 ### Diferenciais:
 
+* Utilização de Angular 2+ ou React (Single page);
 * Modal para deletar uma linha da listagem. Usar a API com os métodos fornecidos será um plus;
 * Boas práticas de SEO;
 * Utilização de frameworks utilizados pela comunidade;
