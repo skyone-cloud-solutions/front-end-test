@@ -19,3 +19,44 @@ O teste foi desenvolvido para entendermos um pouco melhor sobre as skills e tecn
 1. Crie um fork do projeto e faça o clone. Crie uma branch de preferencia com seu nome;
 2. O layout será livre, na pasta resources, dentro do projeto, contém duas imagens que são referências de como deve ser feito o desenvolvimento da solução;
 3. O projeto deve conter um menu lateral como o apresentado nas imagens resources/(layout-menu-open.png, layout-menu-closed.png). A barra de topo deve conter o logo tipo do projeto um ícone de notificações um botão de logout. Utilizando a api que será disponibilizada deverá ser criada uma tabela com paginação e todos os controles apresentados nas imagens citadas, todos elementos devem ser funcionais;
+4. A aplicação front-end deverá utilizar a [API Jsonplaceholder](https://jsonplaceholder.typicode.com/) como backend;
+5. O endpoint que obrigatório é [/photos - 5000 items](https://jsonplaceholder.typicode.com/photos). Esta rota deverá preencher a tabela solicitada no item número 3 das instruções;
+6. Após terminar seu teste submeta um pull request de sua branch e aguarde seu feedback.
+
+* **Importante:** Não é obrigatório seguir o layout fielmente, portanto utilize um framework de seu gosto para fazer a estrutura como Bootstrap, Material Design entre outros.
+
+### O que esperamos:
+
+* Utilização de Angular 2+ ou React (Single page);
+* Código organizado do html, javascript e css;
+* Boas práticas de tags do html5;
+* Organização de arquivos(hierarquia de pastas, separação de arquivos, modularizações e patterns);
+* Queremos ver seu trabalho funcionando! Para isso utilize [Github Pages](https://pages.github.com/) ou hospede os arquivos minificados em algum host de sua preferência para testarmos a aplicação.
+* Documentação no Readme.md. Descreva como baixar o projeto e rodar localmente (Caso tenha algum procedimento);
+* Na existência de buiders ou testes automatizados, crie a documentação com as instruções de como instalar, buildar e testar;
+* Descrever dependências na documentação, caso existam;
+
+### Diferenciais:
+
+* Modal para deletar uma linha da listagem. Usar a API com os metodos fornecidos será um plus;
+* Boas práticas de SEO;
+* Utilização de frameworks utilizados pela comunidade;
+* Utilização de Bootstrap ou Material Design;
+* Font Icons;
+* Html, javascript e css componentizados;
+* Utilização de pre-compilers, task managers (yeoman, bower, gulp, grunt, sass, less entre outros);
+* Testes unitários e de integração;
+* Leitura da API e utilização das funcionalidades oferecidas pelo [Jsonplaceholder](https://jsonplaceholder.typicode.com/) e [Json Server](https://github.com/typicode/json-server)
+* Sistema de loader
+
+## API:
+
+* Endpoint para exibir dados na tabela [/photos - 5000 items](https://jsonplaceholder.typicode.com/photos)
+* Documentação e funcionalidades do [Json Server](https://github.com/typicode/json-server)
+
+## Procedimentos para realização e entrega do teste
+
+Faça um fork do repositório, crie uma branch com o seu nome e depois nos envie um pull request.
+Se realizar apenas o clone do repositório não irá conseguir gerar um pull request.
+
+**Boa sorte!**
