@@ -12,11 +12,11 @@ A Sky.One, foi fundada em 2013 e tornou-se uma empresa especializada no desenvol
 
 O teste foi desenvolvido para entendermos um pouco melhor sobre as skills e tecnologias utilizadas pelo candidato. A análise irá considerar a capacitação sobre os conhecimentos de HTML, CSS, javascript, modelos responsivo, suporte a crossbrowser, utilização de bibliotecas e lógica.
 
-* **Importante:** Este teste é realizado para todos os níveis de profissionais: **junior**, **pleno** ou **senior**, realizamos a análise criteriosa para adequarmos o nível de cada um dentro os níveis procurados. Por tanto, não se sinta obrigado a saber todos os requisitos exigidos.
+* **Importante:** Este teste é realizado para todos os níveis de profissionais: **junior**, **pleno** ou **senior**, realizamos a análise criteriosa para adequarmos o nível de cada um dentre os níveis procurados, por tanto, não se sinta obrigado a saber todos os requisitos exigidos.
 
 ## Instruções
 
-1. Crie um fork do projeto e faça o clone. Crie uma branch de preferência com seu nome;
+1. Crie um fork do projeto e faça o clone;
 2. O layout será livre, na pasta resources, dentro do projeto, contém duas imagens que são referências de como deve ser feito o desenvolvimento da solução;
 3. O projeto deve conter um menu lateral como o apresentado nas imagens resources/(layout-menu-open.png, layout-menu-closed.png). A barra de topo deve conter o logotipo do projeto um ícone de notificações um botão de logout. Utilizando a api que será disponibilizada deverá ser criada uma tabela com paginação e todos os controles apresentados nas imagens citadas, todos elementos devem ser funcionais;
 4. A aplicação front-end deverá utilizar a [API Jsonplaceholder](https://jsonplaceholder.typicode.com/) como backend;
