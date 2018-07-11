@@ -56,7 +56,7 @@ O teste foi desenvolvido para entendermos um pouco melhor sobre as skills e tecn
 
 ## Procedimentos para realização e entrega do teste
 
-Faça um fork do repositório, crie uma branch com o seu nome e depois nos envie um pull request.
-Se realizar apenas o clone do repositório não irá conseguir gerar um pull request.
+Faça um fork do repositório e nos envie um pull request.
+Se realizar apenas o clone do repositório não iremos conseguir visualizar seu repositório, caso clone e crie manualmente um repositório pessoal favor nos enviar o endereço no término do teste.
 
 **Boa sorte!**
