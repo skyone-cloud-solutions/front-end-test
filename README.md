@@ -12,7 +12,7 @@ A Sky.One, foi fundada em 2013 e tornou-se uma empresa especializada no desenvol
 
 O teste foi desenvolvido para entendermos um pouco melhor sobre as skills e tecnologias utilizadas pelo candidato. A análise irá considerar a capacitação sobre os conhecimentos de HTML, CSS, javascript, modelos responsivo, suporte a crossbrowser, utilização de bibliotecas e lógica.
 
-* **Importante:** Este teste é realizado para todos os níveis de profissionais: **junior**, **pleno** ou **senior**, realizamos a análise criteriosa para adequarmos o nível de cada um dentro os níveis procurados. Por tanto, não se sinta obrigado a saber todos os requisitos exigidos.
+* **Importante:** Este teste é realizado para todos os níveis de profissionais: **junior**, **pleno** ou **senior**, realizamos a análise criteriosa para adequarmos o nível de cada um dentre os níveis procurados. Por tanto, não se sinta obrigado a saber todos os requisitos exigidos.
 
 ## Instruções
 
