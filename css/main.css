@@ -1,0 +1,98 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+}
+
+nav {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  background-color: #5765a7;
+  padding: 5px 300px;
+}
+
+nav h2 {
+  color: white;
+}
+
+nav form {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+nav form .formbox {
+  border-radius: 5px;
+  width: 130px;
+  height: 28px;
+  padding-right: 7px;
+}
+
+nav form input [type=submit] {
+  border: none;
+  color: transparent;
+}
+
+nav form input[type=image] {
+  padding-left: 7px;
+}
+
+nav .menu ul {
+  list-style: none;
+}
+
+nav .menu li {
+  float: left;
+  padding: 0px 20px;
+  line-height: 40px;
+  cursor: pointer;
+}
+
+nav .menu .menu-top {
+  height: 40px;
+}
+
+nav .menu .menu-content {
+  position: absolute;
+  width: 150px;
+  height: 120px;
+  display: none;
+  color: white;
+}
+
+nav .menu .menu-content p {
+  color: white;
+  text-align: center;
+}
+
+.container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  padding-top: 100px;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.container table {
+  width: 50%;
+  margin-bottom: .3em;
+  table-layout: fixed;
+}
+
+.container td, .container th {
+  padding: .8em;
+  margin: 0;
+  border: 1px solid #ccc;
+  text-align: center;
+}
+
+.container th {
+  font-weight: bold;
+  background-color: #EEE;
+}
+/*# sourceMappingURL=main.css.map */
